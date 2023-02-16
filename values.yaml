@@ -1,0 +1,13 @@
+alertmanager:
+  enabled: false
+
+nodeExporter:
+  enabled: false
+
+pushgateway:
+  enabled: false
+
+server:
+  persistentVolume:
+    enabled: false
+
